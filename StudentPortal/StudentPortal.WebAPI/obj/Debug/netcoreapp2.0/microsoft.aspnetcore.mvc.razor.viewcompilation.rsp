@@ -1,0 +1,5 @@
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.WebAPI
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=StudentPortal.WebAPI
+--content-root=C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.WebAPI
+--file=

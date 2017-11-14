@@ -1,0 +1,17 @@
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.BusinessLogicManager\obj\Release\netstandard2.0\StudentPortal.BusinessLogicManager.csproj.CoreCompileInputs.cache
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.BusinessLogicManager\obj\Release\netstandard2.0\StudentPortal.BusinessLogicManager.AssemblyInfoInputs.cache
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.BusinessLogicManager\obj\Release\netstandard2.0\StudentPortal.BusinessLogicManager.AssemblyInfo.cs
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.BusinessLogicManager\bin\Release\netstandard2.0\StudentPortal.BusinessLogicManager.deps.json
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.BusinessLogicManager\bin\Release\netstandard2.0\StudentPortal.BusinessLogicManager.dll
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.BusinessLogicManager\bin\Release\netstandard2.0\StudentPortal.BusinessLogicManager.pdb
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.BusinessLogicManager\bin\Release\netstandard2.0\StudentPortal.DataAccessManager.dll
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.BusinessLogicManager\bin\Release\netstandard2.0\StudentPortal.EntityManager.dll
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.BusinessLogicManager\bin\Release\netstandard2.0\StudentPortal.RepositoryAccessManager.dll
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.BusinessLogicManager\bin\Release\netstandard2.0\System.Data.SqlClient.dll
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.BusinessLogicManager\bin\Release\netstandard2.0\StudentPortal.EntityManager.pdb
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.BusinessLogicManager\bin\Release\netstandard2.0\StudentPortal.RepositoryAccessManager.pdb
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.BusinessLogicManager\bin\Release\netstandard2.0\StudentPortal.DataAccessManager.pdb
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.BusinessLogicManager\bin\Release\netstandard2.0\System.Data.SqlClient.xml
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.BusinessLogicManager\obj\Release\netstandard2.0\StudentPortal.BusinessLogicManager.csprojResolveAssemblyReference.cache
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.BusinessLogicManager\obj\Release\netstandard2.0\StudentPortal.BusinessLogicManager.dll
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.BusinessLogicManager\obj\Release\netstandard2.0\StudentPortal.BusinessLogicManager.pdb

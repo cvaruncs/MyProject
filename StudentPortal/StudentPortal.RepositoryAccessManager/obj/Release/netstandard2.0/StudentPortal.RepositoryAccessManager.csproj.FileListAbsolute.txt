@@ -1,0 +1,15 @@
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.RepositoryAccessManager\obj\Release\netstandard2.0\StudentPortal.RepositoryAccessManager.csprojResolveAssemblyReference.cache
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.RepositoryAccessManager\obj\Release\netstandard2.0\StudentPortal.RepositoryAccessManager.csproj.CoreCompileInputs.cache
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.RepositoryAccessManager\obj\Release\netstandard2.0\StudentPortal.RepositoryAccessManager.AssemblyInfoInputs.cache
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.RepositoryAccessManager\obj\Release\netstandard2.0\StudentPortal.RepositoryAccessManager.AssemblyInfo.cs
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.RepositoryAccessManager\bin\Release\netstandard2.0\StudentPortal.RepositoryAccessManager.deps.json
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.RepositoryAccessManager\bin\Release\netstandard2.0\StudentPortal.RepositoryAccessManager.dll
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.RepositoryAccessManager\bin\Release\netstandard2.0\StudentPortal.RepositoryAccessManager.pdb
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.RepositoryAccessManager\bin\Release\netstandard2.0\StudentPortal.DataAccessManager.dll
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.RepositoryAccessManager\bin\Release\netstandard2.0\StudentPortal.EntityManager.dll
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.RepositoryAccessManager\bin\Release\netstandard2.0\System.Data.SqlClient.dll
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.RepositoryAccessManager\bin\Release\netstandard2.0\StudentPortal.DataAccessManager.pdb
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.RepositoryAccessManager\bin\Release\netstandard2.0\StudentPortal.EntityManager.pdb
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.RepositoryAccessManager\bin\Release\netstandard2.0\System.Data.SqlClient.xml
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.RepositoryAccessManager\obj\Release\netstandard2.0\StudentPortal.RepositoryAccessManager.dll
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.RepositoryAccessManager\obj\Release\netstandard2.0\StudentPortal.RepositoryAccessManager.pdb

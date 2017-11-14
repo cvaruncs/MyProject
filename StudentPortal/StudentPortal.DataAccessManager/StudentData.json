@@ -1,0 +1,63 @@
+﻿[
+    {
+        "id": 1,
+        "name": "Sam",
+        "MainStream":
+            {
+                "Name": "Physics",
+                "Subjects": [
+                    { "name": "Physics" },
+                    { "name": "English" }
+                ]
+            }
+
+    },
+    {
+        "id": 1,
+        "name": "Kurt",
+        "MainStream":
+            {
+                "Name": "Physics",
+                "Subjects" :[
+                    { "Name": "Physics" },
+                    { "Name": "English" }
+                ]
+            }
+    },
+    {
+        "id": 1,
+        "name": "Andrew",
+        "MainStream": 
+            {
+                "Name": "Chemistry",
+                "Subjects": [
+                    { "Name": "Chemistry" },
+                    { "Name": "English" }
+                ]
+            }
+    },
+    {
+        "id": 1,
+        "name": "Kevin",
+        "MainStream": 
+            {
+                "Name": "Chemistry",
+                "Subjects" :[
+                    { "Name": "Chemistry" },
+                    { "Name": "English" }
+                ]
+            }
+    },
+    {
+        "id": 1,
+        "name": "Dustin",
+        "MainStream": 
+            {
+                "Name": "Physics",
+                "Subjects": [
+                    { "Name": "Physics" },
+                    { "Name": "English" }
+                ]
+            }
+    }
+]

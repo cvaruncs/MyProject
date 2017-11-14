@@ -1,0 +1,13 @@
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.DataAccessManager\bin\Release\netstandard2.0\StudentPortal.DataAccessManager.deps.json
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.DataAccessManager\bin\Release\netstandard2.0\StudentPortal.DataAccessManager.dll
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.DataAccessManager\bin\Release\netstandard2.0\StudentPortal.DataAccessManager.pdb
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.DataAccessManager\bin\Release\netstandard2.0\StudentPortal.EntityManager.dll
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.DataAccessManager\bin\Release\netstandard2.0\System.Data.SqlClient.dll
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.DataAccessManager\bin\Release\netstandard2.0\StudentPortal.EntityManager.pdb
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.DataAccessManager\bin\Release\netstandard2.0\System.Data.SqlClient.xml
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.DataAccessManager\obj\Release\netstandard2.0\StudentPortal.DataAccessManager.csprojResolveAssemblyReference.cache
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.DataAccessManager\obj\Release\netstandard2.0\StudentPortal.DataAccessManager.csproj.CoreCompileInputs.cache
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.DataAccessManager\obj\Release\netstandard2.0\StudentPortal.DataAccessManager.AssemblyInfoInputs.cache
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.DataAccessManager\obj\Release\netstandard2.0\StudentPortal.DataAccessManager.AssemblyInfo.cs
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.DataAccessManager\obj\Release\netstandard2.0\StudentPortal.DataAccessManager.dll
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.DataAccessManager\obj\Release\netstandard2.0\StudentPortal.DataAccessManager.pdb

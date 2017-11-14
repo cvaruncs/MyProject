@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StudentPortal.EntityManager\StudentPortal.EntityManager.csproj" />
+    <ProjectReference Include="..\StudentPortal.RepositoryAccessManager\StudentPortal.RepositoryAccessManager.csproj" />
+  </ItemGroup>
+
+</Project>

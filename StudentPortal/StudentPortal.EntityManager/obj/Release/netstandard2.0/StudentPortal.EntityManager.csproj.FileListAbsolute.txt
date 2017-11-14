@@ -1,0 +1,9 @@
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.EntityManager\bin\Release\netstandard2.0\StudentPortal.EntityManager.deps.json
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.EntityManager\bin\Release\netstandard2.0\StudentPortal.EntityManager.dll
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.EntityManager\bin\Release\netstandard2.0\StudentPortal.EntityManager.pdb
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.EntityManager\obj\Release\netstandard2.0\StudentPortal.EntityManager.csprojResolveAssemblyReference.cache
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.EntityManager\obj\Release\netstandard2.0\StudentPortal.EntityManager.csproj.CoreCompileInputs.cache
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.EntityManager\obj\Release\netstandard2.0\StudentPortal.EntityManager.AssemblyInfoInputs.cache
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.EntityManager\obj\Release\netstandard2.0\StudentPortal.EntityManager.AssemblyInfo.cs
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.EntityManager\obj\Release\netstandard2.0\StudentPortal.EntityManager.dll
+C:\Professional\DotNet\Sample Projects\StudentPortal\StudentPortal.EntityManager\obj\Release\netstandard2.0\StudentPortal.EntityManager.pdb
